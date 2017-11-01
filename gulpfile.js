@@ -1,3 +1,8 @@
+'use strict';
+
+// sakjdlsadjf
+// asifjisdjias
+// asjdisajfiosda
 var gulp = require('gulp'),
 	watch = require('gulp-watch'),
 	rename = require('gulp-rename'),
