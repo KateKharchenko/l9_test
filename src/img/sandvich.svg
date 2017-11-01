@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="sandvich.svg" class="cls-1" d="M1825,89h30v6h-30V89Zm0-12h30v6h-30V77Zm0-12h30v6h-30V65Z" transform="translate(-1825 -65)"/>
+</svg>
